@@ -1,4 +1,4 @@
-package com.alexpetrov.applicationpicoroutines
+package com.alexpetrov.applicationpicoroutines.fragments
 
 import android.os.Bundle
 import android.os.SystemClock
@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.alexpetrov.applicationpicoroutines.R
 import com.alexpetrov.applicationpicoroutines.databinding.FragmentBBinding
 
 class FragmentB : Fragment() {

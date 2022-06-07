@@ -3,6 +3,8 @@ package com.alexpetrov.applicationpicoroutines
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.alexpetrov.applicationpicoroutines.databinding.ActivityMainBinding
+import com.alexpetrov.applicationpicoroutines.fragments.FragmentA
+import com.alexpetrov.applicationpicoroutines.fragments.FragmentB
 
 /* Корутины — это блоки кода, которые работают асинхронно, то есть по очереди.
    В нужный момент исполнение такого блока приостанавливается

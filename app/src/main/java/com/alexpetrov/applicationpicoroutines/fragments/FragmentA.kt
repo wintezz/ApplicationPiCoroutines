@@ -1,4 +1,4 @@
-package com.alexpetrov.applicationpicoroutines
+package com.alexpetrov.applicationpicoroutines.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
